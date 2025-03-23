@@ -7,7 +7,7 @@ import (
 	"os"
 
 	"github.com/TecharoHQ/anubis"
-	libanubis "github.com/TecharoHQ/anubis/lib"
+	libanubis "github.com/TecharoHQ/anubis/src/main/lib"
 	"github.com/caddyserver/caddy/v2"
 	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
 	"github.com/caddyserver/caddy/v2/caddyconfig/httpcaddyfile"
